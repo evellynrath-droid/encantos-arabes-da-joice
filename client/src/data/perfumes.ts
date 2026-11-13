@@ -654,4 +654,584 @@ export const perfumes: Perfume[] = [
     warnings: ["A página oficial da Lattafa confirma nome, marca, 100 ml, Eau de Parfum, uso compartilhável e a pirâmide olfativa."],
     sources: ["https://www.lattafa-usa.com/products/afeef", "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Afeef-100126.html", "https://www.intenseoud.com/products/afeef-eau-de-parfum-spray-100ml-3-4-oz-by-lattafa-an-exotic-fusion-of-juicy-peach-opulent-florals-warm-seductive-woods"],
   },
+
+  {
+    "id": "mayar-natural-intense",
+    "name": "Mayar Natural Intense",
+    "brand": "Lattafa Perfumes",
+    "category": "Femininos",
+    "note": "Topo: figo · Topo: tangerina verde · Topo: melão · Topo: água de coco",
+    "description": "Fragrância feminina fresca, frutada e aquática, com figo, melão e água de coco sobre um coração floral e fundo cremoso de baunilha, sândalo, ambroxan e almíscar.",
+    "volume": "100 ml",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/40-mayar-natural-intense.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "O site oficial da Lattafa identifica o produto como fragrância para mulheres e informa 100 ml; a FragranceNet classifica a mesma apresentação como unissex. A categoria foi registrada como feminina por prevalecer a fonte oficial.",
+      "A página oficial informa o tamanho de 100 ml, mas não explicita no texto extraído a concentração; Eau de Parfum foi confirmado na página da FragranceNet, que lista Eau De Parfum Spray 3.4 oz.",
+      "A imagem indicada é uma foto do frasco hospedada no CDN oficial da Lattafa e vinculada à página oficial do produto."
+    ],
+    "sources": [
+      "https://www.lattafa-usa.com/products/mayar-natural-intense",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Mayar-Natural-Intense-89759.html",
+      "https://www.fragrancenet.com/fragrances/lattafa/lattafa-mayar-natural-intense/eau-de-parfum"
+    ]
+  },
+  {
+    "id": "victoria",
+    "name": "Victoria",
+    "brand": "Lattafa",
+    "category": "Compartilháveis / Unissex",
+    "note": "Topo: Lemon Meringue Pie (torta de merengue de limão) · Coração: Neroli · Base: Baunilha",
+    "description": "Gourmand cítrico e cremoso: começa com limão doce de torta de merengue, evolui para neroli floral e seca em baunilha quente e confortável.",
+    "volume": "100 ml (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/41-victoria.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial da Lattafa informa 100 ML e descreve o perfume como unissex, mas o campo de navegação/taxonomia também o associa a Women; por isso a categoria foi registrada como unissex com essa ressalva.",
+      "A concentração EDP foi confirmada na página da FragranceNet (Eau De Parfum Spray 3.4 oz); a página oficial da Lattafa consultada não explicita a concentração no texto extraído."
+    ],
+    "sources": [
+      "https://lattafa.com/product/victoria/",
+      "https://www.lattafa-usa.com/products/victoria",
+      "https://www.fragrancenet.com/fragrances/lattafa/lattafa-victoria/eau-de-parfum",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Victoria-102906.html"
+    ]
+  },
+  {
+    "id": "queen-of-arabia",
+    "name": "Queen of Arabia",
+    "brand": "Lattafa (Lattafa Pride)",
+    "category": "Femininos",
+    "note": "Topo: ylang-ylang, noz-moscada, raspas de grapefruit/pomelo · Coração: asmine (grafia da fonte), rosa, flores brancas · Base: baunilha, âmbar, madeiras suaves",
+    "description": "Fragrância feminina floral-oriental, com abertura cítrica e especiada, coração floral branco e um fundo quente de baunilha, âmbar e madeiras.",
+    "volume": "100 ml (3.4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/42-queen-of-arabia.png",
+    "status": "partial",
+    "confirmed": false,
+    "warnings": [
+      "A página oficial da Lattafa USA confirma o produto, UPC, 100 ml e as notas listadas acima, mas não explicita o gênero em um campo próprio; a classificação feminino/floral-oriental foi confirmada na Fragrantica.",
+      "Há divergência relevante entre as fontes: Fragrantica e o varejista Intense Oud listam coco, sal, sândalo, heliotrópio, baunilha e âmbar, enquanto a página oficial lista ylang-ylang, noz-moscada, grapefruit, flores brancas, rosa, baunilha, âmbar e madeiras suaves. A composição exata deve ser considerada a confirmar; não é possível determinar, apenas pelas páginas consultadas, se se trata de reformulação, erro de cadastro ou variação regional.",
+      "A foto é hospedada pela página oficial da Lattafa USA e corresponde visualmente ao frasco do produto; a disponibilidade aparece como esgotada na fonte oficial consultada."
+    ],
+    "sources": [
+      "https://www.lattafa-usa.com/products/queen-of-arabia",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Queen-Of-Arabia-113075.html",
+      "https://wholesale.intenseoud.com/products/queen-of-arabia-eau-de-parfum-spray-100ml-3-4-oz-by-lattafa-pride-a-golden-halo-of-coconut-salt-vanilla"
+    ]
+  },
+  {
+    "id": "angham",
+    "name": "Angham",
+    "brand": "Lattafa",
+    "category": "Compartilháveis / Unissex",
+    "note": "Saída: gengibre, mandarina e pimenta-rosa · Coração: lavanda, praline, cacau e jasmim · Fundo: baunilha, âmbar e almíscar",
+    "description": "Fragrância unissex doce e cremosa, com abertura cítrica e especiada, coração de lavanda, praline, cacau e jasmim, e fundo quente de baunilha, âmbar e almíscar.",
+    "volume": "100 mL (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/43-angham.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial confirma a apresentação de 100 mL e as notas, mas não explicita no texto extraído a concentração; EDP foi corroborado pela página varejista da FragranceNet.",
+      "A categoria unissex é indicada pela fonte oficial/varejista e pela Fragrantica; a classificação Oriental Baunilha vem da Fragrantica.",
+      "A imagem é a foto do produto hospedada no domínio oficial Lattafa USA."
+    ],
+    "sources": [
+      "https://www.lattafa-usa.com/products/angham",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Angham-96768.html",
+      "https://www.fragrancenet.com/fragrances/lattafa/lattafa-angham/eau-de-parfum"
+    ]
+  },
+  {
+    "id": "asad-bourbon",
+    "name": "Asad Bourbon",
+    "brand": "Lattafa",
+    "category": "Compartilháveis / Unissex",
+    "note": "Lavanda · Mirabelle (ameixa mirabelle) · Pimenta-rosa · Cacau",
+    "description": "Perfume quente e adocicado, com abertura aromática e picante de lavanda, mirabelle e pimenta-rosa, coração gourmand de cacau e especiarias e fundo cremoso de baunilha bourbon, âmbar e vetiver.",
+    "volume": "100 ml (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/44-asad-bourbon.jpg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial consultada é de um gift set, mas identifica o frasco Eau de Parfum de 100 ml e publica a pirâmide olfativa do produto.",
+      "Há divergência de gênero/categoria: a Amazon lista o produto como unissex, enquanto a Fragrantica o classifica como masculino; por isso a categoria não é tratada como unívoca.",
+      "A imagem é uma foto promocional real do produto hospedada no CDN da página oficial; a página oficial consultada não foi localizada como uma página exclusiva do frasco individual."
+    ],
+    "sources": [
+      "https://www.lattafa-usa.com/products/asad-bourbon-3-pcs-giftset",
+      "https://www.amazon.com/clp/B0DQJBMZVW",
+      "https://www.jomashop.com/lattafat-mens-asad-bourbon-3-4-oz-fragrances-6290362340362.html",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Bourbon-101124.html"
+    ]
+  },
+  {
+    "id": "dalal",
+    "name": "Dalal",
+    "brand": "Lattafa",
+    "category": "Compartilháveis / Unissex",
+    "note": "Saída: maçã Golden Delicious · Saída: mandarina · Coração: ylang-ylang · Coração: jasmim",
+    "description": "Gourmand floral quente e adocicado: abre com maçã e mandarina, evolui para flores brancas e amarelas e termina em uma base cremosa de baunilha, musk e musgo de carvalho.",
+    "volume": "100 ml (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/45-dalal.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial da Lattafa USA confirma marca, volume de 100 ml, descrição feminina e todas as notas, mas não exibe explicitamente a concentração no texto; Eau de Parfum é confirmada pela FragranceNet e pelo nome do arquivo oficial da imagem.",
+      "Há divergência de classificação de gênero: a página oficial e a Fragrantica indicam feminino, enquanto a FragranceNet indica unissex.",
+      "A imagem é a foto oficial do frasco hospedada no domínio da Lattafa USA."
+    ],
+    "sources": [
+      "https://www.lattafa-usa.com/products/dalal",
+      "https://www.fragrancenet.com/fragrances/lattafa/lattafa-dalal/eau-de-parfum",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Dalal-119588.html"
+    ]
+  },
+  {
+    "id": "amber-rouge",
+    "name": "Amber Rouge",
+    "brand": "Orientica",
+    "category": "Compartilháveis / Unissex",
+    "note": "Jasmim · Laranja · Açafrão · Praliné",
+    "description": "Âmbar quente, doce e especiado, com abertura floral-cítrica de jasmim e laranja, coração de açafrão e praliné e fundo persistente de âmbar, musgo e algas.",
+    "volume": "80 ml (2,7 oz; a página oficial também lista 30 ml e 150 ml)",
+    "concentration": "Eau de Parfum",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/46-amber-rouge.jpg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A marca oficial confirma concentração, tamanhos e as notas listadas acima. A Ulta classifica a fragrância como Woody Spicy e a página especializada Fragrantica a descreve como para mulheres e homens (unissex).",
+      "Há divergência entre as pirâmides olfativas: Ulta/Fragrantica apresentam combinações alternativas de notas (como âmbar-madeira, âmbar-gris, cedro e resina de abeto); por isso, a lista principal usa a composição oficial da Orientica.",
+      "A foto indicada é uma imagem de produto real identificada pela página da Ulta; a URL direta é hospedada pelo serviço de mídia da busca e pode mudar ou deixar de funcionar."
+    ],
+    "sources": [
+      "https://www.orienticaperfumes.com/en-us/products/amber-rouge",
+      "https://www.ulta.com/p/amber-rouge-eau-de-parfum-mkt77007315?sku=77011443",
+      "https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Rouge-69364.html",
+      "https://www.jomashop.com/orientica-amber-rouge-eau-de-parfum-spray-2-7-oz-80-ml-6291106811513.html"
+    ]
+  },
+  {
+    "id": "club-de-nuit-milestone",
+    "name": "Club de Nuit Milestone",
+    "brand": "Armaf",
+    "category": "Compartilháveis / Unissex",
+    "note": "Saída: bergamota, frutas vermelhas, acordes marinhos/notas de mar · Coração: violeta, sândalo, madeiras brancas · Base: vetiver, almíscar, ambroxan",
+    "description": "Fragrância fresca, marinha e amadeirada, com frutas vermelhas e bergamota na abertura, violeta no coração e um fundo almiscarado-amadeirado com ambroxan.",
+    "volume": "3.6 oz (105 ml)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/47-club-de-nuit-milestone.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial lista três tamanhos (6.8 oz, 3.6 oz e 1.0 oz); o volume informado é a apresentação de 3.6 oz/105 ml identificada na página da FragranceNet e na imagem do produto.",
+      "Há divergência de classificação de gênero: a página oficial indica Men, enquanto FragranceNet e Fragrantica apresentam o perfume como unissex; por isso a classificação de gênero deve ser considerada a confirmar conforme o mercado."
+    ],
+    "sources": [
+      "https://armaf.com/products/club-de-nuit-milestone",
+      "https://www.fragrancenet.com/fragrances/armaf/armaf-club-de-nuit-milestone/eau-de-parfum",
+      "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Milestone-64104.html"
+    ]
+  },
+  {
+    "id": "club-de-nuit-intenso-fuego",
+    "name": "Club de Nuit Intenso Fuego",
+    "brand": "Armaf",
+    "category": "Masculinos",
+    "note": "Saída: bergamota, grapefruit, mandarina, abacaxi queimado, ameixa, groselha-preta, pimenta-rosa (Schinus) e terebinto · Coração: gerânio, lavanda e solar blossom · Fundo: mel fundido, fava-tonka, baunilha, cedro, patchouli, musk branco e ambrettolide",
+    "description": "Fragrância masculina fresh woody: abre cítrica e frutada, evolui para um coração aromático/floral e seca quente, amadeirada e levemente adocicada.",
+    "volume": "3.4 oz (aprox. 100 ml)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/48-club-de-nuit-intenso-fuego.jpg",
+    "status": "partial",
+    "confirmed": false,
+    "warnings": [
+      "A página oficial informa gênero masculino, família Fresh Woody e volume de 3.4 oz, enquanto a Jomashop classifica como unissex/Amber Floral e lista outra pirâmide olfativa; não combinei essas notas conflitantes com as oficiais.",
+      "A Fragrantica descreve a apresentação como 105 ml, enquanto a página oficial exibe 3.4 oz (aprox. 100 ml) e o nome do arquivo da imagem contém 105 ml; o volume exato em ml fica a confirmar.",
+      "O varejista Jomashop informa lançamento em 2026 e barcode 6295199831090; esses dados não aparecem na página oficial consultada e, portanto, não foram usados como confirmação primária."
+    ],
+    "sources": [
+      "https://armaf.com/products/club-de-nuit-intenso-fuego",
+      "https://www.jomashop.com/armaf-unisex-club-de-nuit-intenso-fuego-edp-spray-3-4-oz-fragrances-6295199831090.html",
+      "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intenso-Fuego-143501.html"
+    ]
+  },
+  {
+    "id": "liquid-brun",
+    "name": "Liquid Brun",
+    "brand": "French Avenue",
+    "category": "Masculinos",
+    "note": "Saída: canela, bergamota, cardamomo e flor de laranjeira · Coração: baunilha Bourbon e elemi · Fundo: almíscar, praline, ambroxan e madeira de guaiaco",
+    "description": "Fragrância masculina quente e marcante, com abertura cítrica e especiada, coração cremoso de baunilha e fundo doce, ambarado e amadeirado.",
+    "volume": "100 ml (3,4 fl oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/49-liquid-brun.jpg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial também apresenta uma edição limitada separada de 150 ml com maior concentração de óleo; os dados acima referem-se ao Liquid Brun padrão de 100 ml.",
+      "A página oficial descreve a família como Amber e o perfil como Amber-Vanilla, enquanto varejistas classificam a fragrância como Woody/Spicy/Oriental; a classificação de categoria pode variar entre fontes."
+    ],
+    "sources": [
+      "https://frenchavenue.com/products/liquid-brun",
+      "https://www.jomashop.com/fragrance-world-mens-french-avenue-liquid-brun-edp-spray-3-4-oz-fragrances-6290360375694.html",
+      "https://www.sabina.com/en/mens-perfumes/34982-liquid-brun-eau-de-parfum-french-avenue.html",
+      "https://www.fragrantica.com/perfume/French-Avenue/Liquid-Brun-94713.html"
+    ]
+  },
+  {
+    "id": "dark-leather",
+    "name": "Dark Leather",
+    "brand": "Rayhaan",
+    "category": "Masculinos",
+    "note": "Saída: sálvia esclareia, zimbro e pimenta-rosa · Coração: mate e orris · Base: âmbar, bétula, couro e fava-tonka",
+    "description": "Fragrância masculina intensa e profunda, de perfil couro-aromático, amadeirado e levemente ambarado, com abertura verde e especiada.",
+    "volume": "100 ml",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/50-dark-leather.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial confirma marca, categoria, volume, concentração e notas; não informa um código SKU visível.",
+      "A imagem é o arquivo de produto hospedado no domínio oficial Rayhaan e identifica o frasco Dark Leather."
+    ],
+    "sources": [
+      "https://rayhaanperfumes.me/collections/leather/products/dark-leather",
+      "https://rayhaanperfumes.me/collections/leather",
+      "https://www.fragrantica.com/perfume/Rayhaan/Dark-Leather-97122.html",
+      "https://www.target.com/p/rayhaan-dark-leather-eau-de-parfum-for-men/-/A-1006773971",
+      "https://www.jomashop.com/rayhaan-mens-dark-leather-edp-spray-3-38-oz-fragrances-6298044138627.html"
+    ]
+  },
+  {
+    "id": "cordova",
+    "name": "Cordova",
+    "brand": "Rayhaan",
+    "category": "Masculinos",
+    "note": "Couro (nota de topo) · Cipreste (notas de coração) · Patchouli (notas de coração) · Notas amadeiradas (notas de fundo)",
+    "description": "Fragrância masculina de couro, com coração aromático de cipreste e patchouli e fundo amadeirado, ambarado e vetiverado; perfil marcante e refinado.",
+    "volume": "100 ml (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/51-cordova.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial informa capacidade e tipo como 100 ML e EAU DE PARFUM, mas não apresenta uma porcentagem numérica de concentração; portanto, a concentração foi registrada como EDP, sem percentual.",
+      "A página oficial consultada estava marcada como esgotada no momento da consulta."
+    ],
+    "sources": [
+      "https://rayhaanperfumes.me/products/cordova",
+      "https://www.fragrantica.com/perfume/Rayhaan/Cordova-97120.html",
+      "https://beautyhouse.com/products/rayhaan-cordova-eau-de-parfum-for-men",
+      "https://www.jomashop.com/rayhaan-mens-cordova-edp-spray-3-4-oz-fragrances-6298044138610.html"
+    ]
+  },
+  {
+    "id": "pharaoh",
+    "name": "Pharaoh",
+    "brand": "Rayhaan",
+    "category": "Compartilháveis / Unissex",
+    "note": "Topo: notas boozy (licorosas), açafrão, cardamomo e óleo de cade · Meio: café, benjoim e camurça · Base: madeira guaiac, fava-tonka, ládano, baunilha e amberwood",
+    "description": "Fragrância unissex quente, escura e resinosa, com abertura especiada/licorosa, coração de café e camurça e fundo ambarado, amadeirado e de baunilha.",
+    "volume": "100 ml",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/52-pharaoh.jpeg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A fonte oficial Rayhaan confirma 100 ml, Eau de Parfum e as notas usadas neste registro.",
+      "A Ulta, embora seja uma varejista confiável, exibe uma pirâmide divergente (topo: açafrão, elemi e café; meio: cardamomo, benjoim e mirra; base: baunilha, camurça, ládano e tonka). Essa diferença não foi resolvida; por isso, prevaleceram os dados da página oficial, com a divergência registrada.",
+      "A imagem é uma foto/gráfico real do frasco hospedado e identificado pelo Fragrantica; não foi localizada uma URL direta de imagem na página oficial durante a consulta."
+    ],
+    "sources": [
+      "https://rayhaanperfumes.com/products/wolf-copy",
+      "https://rayhaanperfumes.me/products/wolf-copy",
+      "https://www.fragrantica.com/perfume/Rayhaan/Pharaoh-122656.html",
+      "https://www.giftexpress.com/pharaoh-gxp-16231.html",
+      "https://www.ulta.com/p/pharaoh-eau-de-parfum-spray-mkt77010789?sku=77016777"
+    ]
+  },
+  {
+    "id": "delilah-blanc",
+    "name": "Delilah Blanc",
+    "brand": "Maison Alhambra",
+    "category": "Femininos",
+    "note": "Topo: bergamota, pêssego branco e mandarina · Coração: flor de laranjeira e vetiver · Fundo: almíscar e baunilha",
+    "description": "Fragrância floral frutada luminosa e feminina, com saída cítrica e frutada, coração floral alaranjado e fundo macio de almíscar e baunilha.",
+    "volume": "100 mL (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/53-delilah-blanc.jpg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "Não foi localizada uma página oficial da Maison Alhambra para validação direta; os dados foram cruzados entre uma fonte especializada e varejistas.",
+      "O varejista Bazar Al Haya classifica o produto como unissex, enquanto Fragrantica e Fragrance Lovers o classificam como feminino; por isso, gênero/categoria deve ser entendido como feminino, com classificação comercial divergente.",
+      "A imagem é uma foto de produto hospedada por um varejista, não uma confirmação de autenticidade do frasco."
+    ],
+    "sources": [
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Delilah-Blanc-109599.html",
+      "https://fragrancelovers.com/products/maison-alhambra-delilah-blanc-eau-de-parfum",
+      "https://www.bazaralhaya.com/products/maison-alhambra-delilah-blanc-eau-de-parfum-spray-3-4-oz-100-ml"
+    ]
+  },
+  {
+    "id": "la-rouge-baroque",
+    "name": "La Rouge Baroque",
+    "brand": "Maison Alhambra",
+    "category": "Compartilháveis / Unissex",
+    "note": "Amêndoa amarga · Açafrão · Jasmim egípcio · Cedro da Virgínia",
+    "description": "Fragrância unissex quente e sofisticada, abrindo com amêndoa amarga e açafrão, evoluindo para jasmim e cedro e secando em âmbar gris, madeiras e almíscar.",
+    "volume": "100 ml (3,4 fl oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/54-la-rouge-baroque.jpg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "Não foi localizada uma página oficial da Maison Alhambra para este item; os dados foram confirmados em varejista especializado e no anúncio da Amazon.",
+      "Há anúncios de uma variante distinta chamada La Rouge Baroque Extreme/Baroque Rouge Extreme; eles não foram usados para preencher os dados desta versão exata.",
+      "A imagem é a foto do produto exibida pelo varejista Intense Oud; autenticidade física do frasco não pode ser verificada apenas pela imagem."
+    ],
+    "sources": [
+      "https://www.intenseoud.com/products/la-rouge-baroque-edp-spray-100ml-3-4-oz-by-maison-alhambra",
+      "https://www.amazon.com/clp/B0888C5D3N"
+    ]
+  },
+  {
+    "id": "philos-opus-noir",
+    "name": "Philos Opus Noir",
+    "brand": "Maison Alhambra",
+    "category": "Compartilháveis / Unissex",
+    "note": "Saída: frutas, rosa turca · Coração: ylang-ylang, couro, noz-moscada, âmbar · Fundo: patchouli, baunilha, vetiver, almíscar e cedro",
+    "description": "Perfil floral-frutado e especiado, com rosa e ylang-ylang no coração, evoluindo para um fundo quente, terroso e amadeirado de patchouli, vetiver, baunilha, almíscar e cedro.",
+    "volume": "100 ml (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/55-philos-opus-noir.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "Não foi localizada uma página oficial da Maison Alhambra para este produto; os dados comerciais foram confirmados em varejistas e a pirâmide olfativa foi conferida também no Fragrantica.",
+      "Há uma divergência textual no Fragrantica: um resumo menciona ambergris, mas a pirâmide estruturada da própria página e o varejista Intense Oud indicam âmbar; por isso foi usado âmbar, sem tratar ambergris como confirmado."
+    ],
+    "sources": [
+      "https://www.fragrancenet.com/cologne/maison-alhambra/maison-alhambra-philos-opus-noir/eau-de-parfum",
+      "https://www.intenseoud.com/products/philos-opus-noir-eau-de-parfum-spray-100ml-3-4-oz-by-maison-alhambra",
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Philos-Opus-Noir-93821.html"
+    ]
+  },
+  {
+    "id": "hayaati",
+    "name": "Hayaati",
+    "brand": "Lattafa Perfumes",
+    "category": "Compartilháveis / Unissex",
+    "note": "Maçã · Bergamota · Canela / casca de canela · Notas amadeiradas",
+    "description": "Fragrância woody aromatic de perfil fresco, frutado e amadeirado: maçã e bergamota na abertura, canela e madeiras no coração, com almíscar e baunilha na base.",
+    "volume": "100 ml (3,4 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/56-hayaati.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial da Lattafa descreve Hayaati como fragrância para mulheres e homens, mas também mostra o filtro/categoria Men; o varejista FragranceNet a classifica como masculina. Por isso, a categoria foi registrada como unissex com a divergência preservada.",
+      "A página oficial confirma 100 ml e as notas, mas não explicita a concentração; Eau de Parfum foi confirmado na página da FragranceNet."
+    ],
+    "sources": [
+      "https://lattafa.com/product/hayaati/",
+      "https://www.lattafa-usa.com/products/hayaati",
+      "https://www.fragrancenet.com/cologne/lattafa/lattafa-hayaati/eau-de-parfum"
+    ]
+  },
+  {
+    "id": "salvo",
+    "name": "Salvo",
+    "brand": "Maison Alhambra",
+    "category": "Masculinos",
+    "note": "Bergamota · Lavanda · Pimenta de Sichuan · Anis-estrelado",
+    "description": "Fragrância masculina aromática e especiada: abre cítrica com bergamota, evolui para lavanda e pimentas com anis e noz-moscada, e seca em ambroxan mineral-amadeirado com baunilha cremosa.",
+    "volume": "100 ml (3,4 fl oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/57-salvo.webp",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "Não foi localizada uma página oficial da Maison Alhambra para este produto nas fontes consultadas; foi priorizado o varejista Intense Oud e conferida a ficha especializada do Fragrantica.",
+      "Há divergência entre varejistas sobre a pirâmide olfativa: a ficha especializada e a Intense Oud informam bergamota; lavanda, pimenta de Sichuan, anis-estrelado e noz-moscada; ambroxan e baunilha, enquanto a Fragrance Wholesaler USA acrescenta pimenta, pimenta-rosa, vetiver, patchouli, gerânio, elemi, cedro e ládano. Esses componentes adicionais ficam a confirmar.",
+      "A imagem é uma foto de produto identificada na página do varejista; autenticidade física do frasco não pode ser verificada apenas pela imagem."
+    ],
+    "sources": [
+      "https://www.intenseoud.com/products/salvo-for-men-edp-100ml-3-4-oz-by-maison-alhambra-warm-woody-fragrance",
+      "https://www.fragrantica.com/perfume/Maison-Alhambra/Salvo-93538.html",
+      "https://fragrancewholesalerusa.com/products/maison-alhambra-salvo-edp-3-4fl-oz-100ml"
+    ]
+  },
+  {
+    "id": "ejaazi",
+    "name": "Ejaazi",
+    "brand": "Lattafa Perfumes",
+    "category": "Compartilháveis / Unissex",
+    "note": "Topo: cítricos, laranja, lavanda, cardamomo e murta · Coração: pimenta, patchouli, folha de canela e lírio-do-vale · Base: ambroxan, notas amadeiradas, âmbar, cedro, musgo de carvalho e vetiver",
+    "description": "Fragrância âmbar unissex de perfil cítrico, aromático, picante e amadeirado, com base de ambroxan, âmbar e madeiras.",
+    "volume": "100 ml",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/58-ejaazi.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial confirma 100 ml, a categoria âmbar/unissex e a pirâmide de notas; a concentração EDP é explicitada no varejista FragranceNet e no título/listagem da própria Lattafa USA, não em um campo de concentração no texto principal extraído da página oficial.",
+      "A imagem é uma foto de produto hospedada diretamente no domínio oficial da Lattafa USA."
+    ],
+    "sources": [
+      "https://www.lattafa-usa.com/products/ejaazi",
+      "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ejaazi-68228.html",
+      "https://www.fragrancenet.com/fragrances/lattafa/lattafa-ejaazi/eau-de-parfum"
+    ]
+  },
+  {
+    "id": "9pm-black",
+    "name": "Afnan 9PM Black",
+    "brand": "Afnan",
+    "category": "Masculinos",
+    "note": "Saída: bergamota, lavandim, canela e maçã · Coração: muguet (lírio-do-vale) e flor de laranjeira · Fundo: patchouli, âmbar, baunilha e fava-tonka",
+    "description": "Fragrância masculina EDP de perfil fresco, frutado e especiado, com fundo doce e ambarado de baunilha e fava-tonka, voltada para uso noturno.",
+    "volume": "100 ml; a loja oficial dos EUA também lista uma opção de 150 ml",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/59-9pm-black.jpg",
+    "status": "partial",
+    "confirmed": false,
+    "warnings": [
+      "A página oficial usa o título de produto “9 PM”, mas identifica o perfume no texto como “9PM Black”; por isso o nome solicitado foi mantido.",
+      "A loja oficial dos EUA lista 100 ML e 150 ML; a variante/volume exato deve ser confirmado no frasco ou no pedido.",
+      "Há divergência dentro da própria descrição oficial: o texto corrido menciona pera, hortelã e lavanda, enquanto a ficha estruturada de notas informa maçã, lavandim, canela, muguet e flor de laranjeira. Foram priorizadas as notas estruturadas, corroboradas pelo varejista FragranceNet; os elementos divergentes ficam a confirmar.",
+      "A imagem é hospedada no CDN oficial da Afnan e corresponde à galeria da página oficial do produto."
+    ],
+    "sources": [
+      "https://afnan.com/products/9-pm",
+      "https://us.afnan.com/products/9-pm",
+      "https://www.fragrancenet.com/cologne/afnan-perfumes/afnan-9-pm/eau-de-parfum"
+    ]
+  },
+  {
+    "id": "amber-noir",
+    "name": "Amber Noir",
+    "brand": "Orientica",
+    "category": "Compartilháveis / Unissex",
+    "note": "Saída: elemi, figo e cenoura · Coração: lírio-do-vale · Fundo: cedro, sândalo e almíscar",
+    "description": "Fragrância unissex amadeirada e especiada, com abertura de elemi, figo e cenoura, coração floral de lírio-do-vale e base cremosa/amadeirada de cedro, sândalo e almíscar.",
+    "volume": "80 ml (2,7 oz) na opção principal; também disponível em 150 ml (5 oz)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/60-amber-noir.png",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "A página oficial confirma a família olfativa Woody Spicy, a concentração EDP, as notas e os volumes de 80 ml e 150 ml, mas não declara explicitamente o gênero; a classificação unissex foi confirmada pela Fragrantica.",
+      "A imagem é a foto oficial do frasco hospedada no CDN Shopify da Orientica; o produto possui mais de uma apresentação de volume."
+    ],
+    "sources": [
+      "https://www.orienticaperfumes.com/en-us/products/amber-noir",
+      "https://www.orienticaperfumes.com/products/amber-noir.js",
+      "https://www.fragrantica.com/perfume/Orientica-Premium/Amber-Noir-87190.html"
+    ]
+  },
+  {
+    "id": "maryam",
+    "name": "Maryam",
+    "brand": "Rasasi",
+    "category": "Femininos",
+    "note": "Topo: laranja, flores brancas e ylang-ylang · Coração: tuberosa, gardênia e jasmim · Base: sândalo, vetiver e acorde de âmbar",
+    "description": "Floral feminina de flores brancas, luminosa na abertura cítrica e cremosa no coração, com fundo quente de âmbar, sândalo e vetiver.",
+    "volume": "100 mL indicado na foto da embalagem; a confirmar (varejista lista 80 mL)",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/61-maryam.webp",
+    "status": "partial",
+    "confirmed": false,
+    "warnings": [
+      "A página oficial consultada confirma a marca, o perfil e as notas, mas não informa volume nem concentração explicitamente.",
+      "Há conflito de volume: a foto real da embalagem mostra e 100 ml/3.4 fl oz, enquanto a página do Mercado Livre informa volume da unidade de 80 mL; portanto, o volume comercial exato deve ser confirmado com a Rasasi ou com o vendedor.",
+      "A classificação floral feminina e a concentração Eau de Parfum foram corroboradas por fontes especializadas; não foi localizada uma ficha técnica oficial completa."
+    ],
+    "sources": [
+      "https://www.rasasiexclusive.com/products/rasasi-maryam",
+      "https://www.fragrantica.com/perfume/Rasasi/Maryam-136862.html",
+      "https://thearabscent.com/fragrances/rasasi/maryam/",
+      "https://www.mercadolivre.com.br/perfume-rasasi-maryam-edp-80ml-2026/p/MLB75239640",
+      "https://http2.mlstatic.com/D_NQ_NP_878448-MLA114300482999_072026-F.webp"
+    ]
+  },
+  {
+    "id": "queen-fatme",
+    "name": "Queen Fatme",
+    "brand": "Rasasi",
+    "category": "Femininos",
+    "note": "Saída: jasmim, osmanthus, rosa e tuberosa · Coração: cedro, gerânio, jasmim, narciso e pêssego · Fundo: âmbar cinzento (ambergris), notas lactônicas, almíscar e vetiver",
+    "description": "Buquê floral branco e rosado com osmanthus e pêssego, evoluindo para um fundo almiscarado, ambarado e vetiverado.",
+    "volume": "80 ml",
+    "concentration": "Eau de Parfum (EDP)",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/62-queen-fatme.jpeg",
+    "status": "partial",
+    "confirmed": false,
+    "warnings": [
+      "A página oficial da Rasasi Exclusive confirma a marca e as notas, mas não informa explicitamente volume nem concentração; 80 ml e Eau de Parfum foram confirmados em página de varejo do Mercado Livre e a concentração também na ArabScent.",
+      "A imagem direta é hospedada pela infraestrutura de imagens do Fragrantica e identificada na página especializada do produto; não foi possível obter uma URL direta de imagem exposta pela página oficial da Rasasi.",
+      "A descrição narrativa da página oficial menciona sandalwood no fundo, mas a lista estruturada de notas da própria página não o inclui; por isso, sandalwood foi deixado fora das notas confirmadas."
+    ],
+    "sources": [
+      "https://www.rasasiexclusive.com/products/rasasi-queen-fatme",
+      "https://thearabscent.com/fragrances/rasasi/queen-fatme/",
+      "https://www.fragrantica.com/perfume/Rasasi/Queen-Fatme-136861.html",
+      "https://www.mercadolivre.com.br/rasasi-queen-fatme-edp-80ml-perfume-arabe-feminino/up/MLBU5684564610"
+    ]
+  },
+  {
+    "id": "hawas-tropical",
+    "name": "Hawas Tropical",
+    "brand": "Rasasi",
+    "category": "Masculinos",
+    "note": "Saída: água de coco · Saída: folha de figueira · Saída: gengibre · Coração: coco",
+    "description": "Fragrância masculina fresca, verde e tropical, centrada em coco, figo e menta, com gengibre na abertura e uma base cremosa amadeirada de tonka, sândalo e musk.",
+    "volume": "100 ml (3,3 oz)",
+    "concentration": "Eau de Parfum (EDP), spray",
+    "price": "Preço sob consulta",
+    "image": "/products/catalog/63-hawas-tropical.jpg",
+    "status": "confirmed",
+    "confirmed": true,
+    "warnings": [
+      "Não foi localizada uma página oficial da Rasasi acessível nesta pesquisa; os dados foram confirmados por Jomashop (varejista com garantia de autenticidade), Fragrantica e Anabis.",
+      "A composição de notas varia na forma de apresentação entre as fontes: água de coco aparece no Jomashop e Fragrantica, mas não na lista resumida da Anabis; por isso foi mantida como nota reportada, não como fórmula oficial completa.",
+      "A imagem é uma foto real do frasco identificada na página do Jomashop; a URL direta fornecida é o arquivo de imagem correspondente disponibilizado pelo mecanismo de busca."
+    ],
+    "sources": [
+      "https://www.jomashop.com/rasasi-mens-hawas-tropical-edp-spray-3-3-oz-fragrances-614514464441.html",
+      "https://www.fragrantica.com/perfume/Rasasi/Hawas-Tropical-108054.html",
+      "https://www.anabis.com/us/Rasasi-Hawas-Tropical-EdP-100ml.html"
+    ]
+  },
 ];
